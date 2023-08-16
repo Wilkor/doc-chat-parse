@@ -46,5 +46,9 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
  ![image](https://github.com/Wilkor/doc-chat-parse/assets/34819624/99aa35bc-ae3a-4412-9155-e8f6b4b4f7c3)
 
  Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
+
+ Video de aprensetação:
+
+ https://youtu.be/33JbaQijjxY
  
  E-mail: contato@pontoparse.net
