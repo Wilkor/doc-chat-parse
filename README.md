@@ -1,5 +1,5 @@
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
+![icone_github](https://github.com/Wilkor/doc-chat-parse/assets/34819624/3c43acb1-db7d-4a44-8331-8367ef895317)
 
 # Como utilizar a extensão Chat da equipe!
 
