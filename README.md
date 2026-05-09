@@ -83,6 +83,12 @@ Como gestor, você terá uma **visão privilegiada** para se comunicar com a equ
 
 ![Tela do gestor - comunicação com a equipe](https://github.com/user-attachments/assets/29c3d187-3bdf-42d8-87cf-adcaea5aab7b)
 
+
+<img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/283b55cc-8ed6-4a67-889a-a46927086aa7" />
+
+<img width="1916" height="916" alt="image" src="https://github.com/user-attachments/assets/8bb2e567-b8fb-43e5-91b8-7904007e4023" />
+
+
 ### Para Atendentes
 
 Após o login, você verá todos os usuários logados dentro do mesmo contrato:
