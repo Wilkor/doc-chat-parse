@@ -1,4 +1,4 @@
-# 💬 Chat da Equipe — Conecte, Colabore e Atenda Melhor
+# 💬 Connect Team — Conecte, Colabore e Atenda Melhor
 
 > **A extensão que transforma a comunicação interna da sua equipe de atendimento diretamente no BlipDesk.**  
 > Sem sair da tela. Sem trocar de app. Sem perder tempo.
@@ -15,9 +15,6 @@ Imagine seus atendentes conseguindo tirar dúvidas com o gestor **em segundos**,
 ✅ Reações nas mensagens para agilizar feedbacks  
 ✅ Visão de quem está online no mesmo contrato  
 ✅ Interface integrada ao BlipDesk — zero distração  
-
-> ⏱️ **Histórico de mensagens disponível por 24 horas.**
-
 ---
 
 ## 📦 Instalação — Passo a Passo
@@ -26,7 +23,7 @@ Imagine seus atendentes conseguindo tirar dúvidas com o gestor **em segundos**,
 
 1. Na tela principal do Blip, clique em **Blip Store** (ao lado de "Home")
 2. No menu lateral, selecione **Extensões**
-3. Procure por **"Chat da equipe"**
+3. Procure por **"Connect Team"**
 4. Clique em **Ativar** — ⚠️ *instale obrigatoriamente no seu bot **Router/Roteador***
 
 ---
