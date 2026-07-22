@@ -199,7 +199,7 @@ Não. A extensão deve ser instalada exclusivamente no **bot Router/Roteador**.
 
 Ficou com alguma dúvida na configuração ou quer saber mais sobre a extensão?
 
-📧 **wilkor.almeida@gmail.com**
+📧 **contato@wconsulting.tech**
 
 Nossa equipe está pronta para te ajudar! Entre em contato e responderemos o mais breve possível.
 
